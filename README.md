@@ -1,8 +1,8 @@
 # Pig Latin PLUS+
 
->>> [!NOTE] 
-This project is maintained on [GitLab](https://gitlab.com/thecasualdev/piglatin)
->>>
+> [!NOTE] 
+> This project is maintained on [GitLab](https://gitlab.com/thecasualdev/piglatin)
+>
 
 
 The goal of this project, Like my old project is to create a competent Pig Latin Translator with as little libraries. The first goal is to rewrite the original features in Rust, The second goal is to implement some of the features my teacher suggested after reviewing my project.
